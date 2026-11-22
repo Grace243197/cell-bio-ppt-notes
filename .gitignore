@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 课件与产出：含版权内容或本地路径，不进仓库
+*.pptx
+*.ppt
+out/
+*.pdf
+
+# 编辑器
+.vscode/
+.idea/
